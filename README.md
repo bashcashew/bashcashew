@@ -2,7 +2,7 @@
 
 ### Here is a list of things that I am working on, but not exclussively. ;)
 * Uploading a 🗣️local LLM-and-realistic-TTS Models for use in the Terminal
-* Uploading a PS5-to-PC script that allows full integration of a controller into the PC environment, including controller rumble.
+* Uploading a 🎮PS5-to-PC script that allows full integration of a controller into the PC environment, including controller rumble.
   * _Added local telemetric .csv data per session for usage analyses if interested -- this can be removed if no use-cases_
 * Uploading a 📑PPTX-to-PDF Converter
 * Uploading a 📑PDF Merger with custom footers that apply the orignial file name to help with knowing where you are
