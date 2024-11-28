@@ -11,6 +11,10 @@
 * Uploading a 📀script that checks physical port entries i.e., USBs, SDs, and creates a dump of easy-to-read information logs in the target drive.
 * Uploading various 👨‍💻.js scripts for consumer ui into a single repository
 
+
+![pixel_invaderzimgir_art](https://github.com/user-attachments/assets/8758710e-f0f9-4b4e-aff1-caf0c392bc4f)
+
+
 <!--
 **bashcashew/bashcashew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
