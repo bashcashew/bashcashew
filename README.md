@@ -8,7 +8,7 @@
 * Uploading a 📑PDF Merger with custom footers that apply the orignial file name to help with knowing where you are
 * Uploading a 📑PDF-to-text-markdown script that allows you to compile all text within a document/PDF given specified margins (ui included)
 * Uploading a ✅Bubble-sort algorithm for a computer directory as well as some other sorting algos.
-* Uploading a 
+* Uploading a script that checks physical port entries i.e., USBs, SDs, and creates a dump of easy-to-read information logs in the target drive.
 * Uploading various 👨‍💻.js scripts for consumer ui into a single repository
 
 <!--
