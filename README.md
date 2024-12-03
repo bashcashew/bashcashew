@@ -10,11 +10,14 @@
 * Uploading a ✅Bubble-sort algorithm for a computer directory as well as some other sorting algos.
 * Uploading a 📀script that checks physical port entries i.e., USBs, SDs, and creates a dump of easy-to-read information logs in the target drive.
 * Uploading various 👨‍💻.js scripts for consumer ui into a single repository
-* Uploading a 🎬 cyberpunk-CLI that integrates various commands of a normal CLI such as ls, cd, alias etc. +
+* Uploading a 🎬cyberpunk-CLI that integrates various commands of a normal CLI such as ls, cd, alias etc. +
   + comes with a robust calculator
   + comes with a built-in video player
   + comes with a built-in text and file editor that (has retention issues atm ... so only per-session saves)
   * _These commands are done, but may be rolled out incrementtally or not at all due to some issues surrounding cohesion_
+* Uploading a 🐍bash-and-python script that gives a cyberpunk-esque splash screen with a password lock for your preferred CLI.
+  * all functions are disabled and only can enter the password to enter the terminal ... this can easily be edited in the bash script if issues occur.
+  * The only way to exit without a password is to exit the terminal ... or again, editing the bash script :)
 
 
 ![pixel_invaderzimgir_art](https://github.com/user-attachments/assets/8758710e-f0f9-4b4e-aff1-caf0c392bc4f)
