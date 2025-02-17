@@ -6,6 +6,27 @@
 
 * List of not included: Cyperpunk CLI (not in a robust place atm., ambitions to integrate a database an interactive selection-and-viewer tool inside the CLI), and USB logger and port entry tool (Not enough time to fine tune, prevent data-loss and corruption; will push at a later date)
 
+---
+
+### Skills and Languages
+|Languages|Hobbies and skills|
+|-|-|
+|Bash|vim|
+|Python|doom emacs|
+|R|git|
+|SQL|postgres and data engineering|
+|Ruby|docker|
+|Lisp|
+|Rust|
+|YAML|
+|Javascript|
+|HTML|
+|Markdown|
+
+
+
+
+
 
 
 ---
