@@ -2,7 +2,7 @@
 
 
 **$${\color{red}UPDATE:}$$** Main focus is on private work at the moment, finished works will be incrementally updated in the respective repositories. Updates to these are not considered for now, but will be in future instances. Thank you :D
-* List of finished include: all PDF codes, PS5 controller, sorting algortihms, LLM TTS UI + terminal, Bash-based splash screen
+* List of finished include: all PDF codes, PS5 controller, sorting algortihms, LLM TTS UI + terminal, Bash-based splash screen, STT Model, Stable Diffusion Sana
 
 * List of not included: Cyperpunk CLI (not in a robust place atm., ambitions to integrate a database an interactive selection-and-viewer tool inside the CLI), and USB logger and port entry tool (Not enough time to fine tune, prevent data-loss and corruption; will push at a later date)
 
@@ -27,6 +27,8 @@
 * Uploading a 🐍bash-and-python script that gives a cyberpunk-esque splash screen with a password lock for your preferred CLI.
   * all functions are disabled and only can enter the password to enter the terminal ... this can easily be edited in the bash script if issues occur.
   * The only way to exit without a password is to exit the terminal ... or again, editing the bash script :)
+* Speach-to-text transcription model designed for video and sound files to convert into .md or .txt files.
+* Stable Diffusion model (Sana) scripts for image generation through python.
 
 
 ![pixel_invaderzimgir_art](https://github.com/user-attachments/assets/8758710e-f0f9-4b4e-aff1-caf0c392bc4f)
