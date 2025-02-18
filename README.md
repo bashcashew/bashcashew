@@ -8,22 +8,6 @@
 
 ---
 
-### Skills and Languages
-|Languages|Hobbies and skills|
-|-|-|
-|Bash|vim|
-|Python|doom emacs|
-|R|git|
-|SQL|postgres and data engineering|
-|Ruby|docker|
-|Lisp|
-|Rust|
-|YAML|
-|Javascript|
-|HTML|
-|Markdown|
-
-
 
 
 
