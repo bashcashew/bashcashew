@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**$${\color{red}UPDATE:}$$** Main focus is on private work at the moment, finished works will be incrementally updated in the respective repositories. Updates to these are not considered for now, but will be in future instances. Thank you :D
+**$${\color{red}UPDATE:}$$** Main focus is on private work at the moment, finished works will be incrementally updated in the respective repositories. Updates to these are not considered for now, but will be in future instances. :D
 * List of finished include: all PDF codes, PS5 controller, sorting algortihms, LLM TTS UI + terminal, Bash-based splash screen, STT Model, Stable Diffusion Sana
 
 * List of not included: Cyperpunk CLI (not in a robust place atm., ambitions to integrate a database an interactive selection-and-viewer tool inside the CLI), and USB logger and port entry tool (Not enough time to fine tune, prevent data-loss and corruption; will push at a later date)
