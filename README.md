@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 
-**$${\color{red}UPDATE:}$$** Main focus is on private work at the moment, finished works will be incrementally updated in the respective repositories. Updates to these are not considered for now, but will be in future instances. :D
-* List of finished include: all PDF codes, PS5 controller, sorting algortihms, LLM TTS UI + terminal, Bash-based splash screen, STT Model,
-
-* List of not included: Cyperpunk CLI (not in a robust place atm., ambitions to integrate a database an interactive selection-and-viewer tool inside the CLI), and USB logger and port entry tool (Not enough time to fine tune, prevent data-loss and corruption; will push at a later date)
+**$${\color{red}UPDATE:}$$** Main focus is on private work at the moment... will upload soon! :D
 
 ---
 
@@ -15,24 +12,25 @@
 
 ---
 ### Here is a list of things I am working on, but not exclussively. ;)
-* Uploading a 🗣️local LLM-and-realistic-TTS Models for use in the Terminal and UI
-* Uploading a 🎮PS5-to-PC script that allows full integration of a controller into the PC environment, including controller rumble.
-  * _Added local telemetric .csv data per session for usage analyses if interested -- this is 100% client-side local and never interacted with in any way.
-* Uploading a 📑PPTX-to-PDF Converter
-* Uploading a 📑PDF Merger with custom footers that apply the orignial file names and as part of an indexed ToC
-* Uploading a 📑PDF-to-text-markdown script that allows you to compile all text within a document/PDF given specified margins (ui included)
-* Uploading a ✅Bubble-sort algorithm for a computer directory as well as some other sorting algos.
-* Uploading a 📀script that checks physical port entries i.e., USBs, IDs, etc., usage stats, and full-depth file branches. Then creates a dump of easy-to-read information logs on the target drive.
-* Uploading various 👨‍💻.js scripts for consumer ui into a single repository
-* Uploading a 🎬cyberpunk-CLI that integrates various commands of a normal CLI such as ls, cd, alias etc.
-  + comes with a robust calculator
-  + comes with a built-in video player
-  + comes with a built-in text/ file editor (has retention issues atm ... so only on-mem saves)
-  ++ _These commands are done, but may be rolled out incrementtally or not at all due to some issues surrounding cohesion_
-* Uploading a 🐍bash-and-python script that gives a cyberpunk-esque splash screen with a password lock for your preferred CLI.
-  + all functions are disabled and only can enter the password to enter the terminal ... this can easily be edited in the bash script if issues occur.
-  + The only way to exit without a password is to exit the terminal ... or again, editing the bash script :)
-* Speach-to-text transcription model designed for video and sound files to convert into .md or .txt files.
+#### ---
+#### Done (but to upload):
+* Local LLM with TTS Functionality within CLI and UI
+* Uploading a PS5-to-PC script that enables bluetooth interception and re-mapping of PS5 controller (with togglable telemetry)
+* PPTX-to-PDF CLI Converter
+* PDF-to-TXT-MD Script for compilation of al characters within a PDF (including UI and configurable margins)
+* PDF Merger with custom footers and ToC indexing for origin files
+* Bubble-Sort algorithm script for computer directory sorting
+* Various .js files for consumer UIs into a single repository
+* A Multi-lingual Speech-to-text transcription pipeline designed for video and sound files to convert into .md or .txt files with timestamps
+* A script for a CyberPunk-esque splash screen with a password lock for any CLI when opening - easy to implement in the ~/.zshrc or similar
+  + Completely disables abilities to enter CLI or exit until password is entered
+
+
+#### ---
+#### Need to Finish:
+* A script for physical port signatures with a full dosier of usage stats and file branches; creates dump file of plain-text logs on target drive
+* CyberPunk-Themed CLI that integrates normal commands with the addition of calculations, video playback, and in-memory text/file editing
+
 
 
 ![pixel_invaderzimgir_art](https://github.com/user-attachments/assets/8758710e-f0f9-4b4e-aff1-caf0c392bc4f)
