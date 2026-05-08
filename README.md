@@ -13,9 +13,14 @@
 ---
 ### Here is a list of things I am working on, but not exclussively. ;)
 #### ---
+#### Done:
+* Masters Thesis 2026 (Secure Mobile Money Fraud Detection System) -- limited upload due; process of publishing paper then upload full unfettered docs. 
+* Uploading a PS5-to-PC script that enables bluetooth interception and re-mapping of PS5 controller (with togglable telemetry)
+
+
+#### ---
 #### Done (but to upload):
 * Local LLM with TTS Functionality within CLI and UI
-* Uploading a PS5-to-PC script that enables bluetooth interception and re-mapping of PS5 controller (with togglable telemetry)
 * PPTX-to-PDF CLI Converter
 * PDF-to-TXT-MD Script for compilation of al characters within a PDF (including UI and configurable margins)
 * PDF Merger with custom footers and ToC indexing for origin files
