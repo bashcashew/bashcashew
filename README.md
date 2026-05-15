@@ -21,7 +21,21 @@
 * PDF to words list
 
 
-* Quantum Neural Network Instantation
+
+
+#### ---
+#### Done (but to upload):
+* Local LLM with TTS Functionality within CLI and UI
+* PPTX-to-PDF CLI Converter
+* PDF-to-TXT-MD Script for compilation of al characters within a PDF (including UI and configurable margins)
+* PDF Merger with custom footers and ToC indexing for origin files
+* Various .js files for consumer UIs into a single repository
+* A Multi-lingual Speech-to-text transcription pipeline designed for video and sound files to convert into .md or .txt files with timestamps
+* A script for a CyberPunk-esque splash screen with a password lock for any CLI when opening - easy to implement in the ~/.zshrc or similar
+  + Completely disables abilities to enter CLI or exit until password is entered
+
+
+
 * Screen Cappping Script for MacOS with full audio
 * Auditing CLI tool for scraping entire system like grep but with custom directory paths (used to delete deeply-embedded files; use with caution!)
 * SWARM + Federation Learning test
@@ -31,23 +45,6 @@
 * ASCII fireplace for a "cozy" coding session; for fun
 * HOLO-SCREENSAVER: creates an interactive screensaver where there is a web of points within a 3D-space; each point is rotated on the mouses axis and color of points adapts to position (looks like shimmering)
 
-
-
-
-
-
-
-#### ---
-#### Done (but to upload):
-* Local LLM with TTS Functionality within CLI and UI
-* PPTX-to-PDF CLI Converter
-* PDF-to-TXT-MD Script for compilation of al characters within a PDF (including UI and configurable margins)
-* PDF Merger with custom footers and ToC indexing for origin files
-* Bubble-Sort algorithm script for computer directory sorting
-* Various .js files for consumer UIs into a single repository
-* A Multi-lingual Speech-to-text transcription pipeline designed for video and sound files to convert into .md or .txt files with timestamps
-* A script for a CyberPunk-esque splash screen with a password lock for any CLI when opening - easy to implement in the ~/.zshrc or similar
-  + Completely disables abilities to enter CLI or exit until password is entered
 
 
 #### ---
