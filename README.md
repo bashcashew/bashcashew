@@ -18,6 +18,25 @@
 * Uploading a PS5-to-PC script that enables bluetooth interception and re-mapping of PS5 controller (with togglable telemetry)
 
 
+* Metadata_Scraper with UI
+* Full Disk Indexing System ONLY for user-level files/ folders
+* PDF to words list
+* Quantum Neural Network Instantation
+* Screen Cappping Script for MacOS with full audio
+* Auditing CLI tool for scraping entire system like grep but with custom directory paths (used to delete deeply-embedded files; use with caution and please KNOW what you are doing)
+* SWARM + Federation Learning test
+* ASCII-to-video conversion tool for fun, can increase the level of detail by increasing the character density and intensity ... increases the time-to-completion naturally
+* ASCII-based fungal growth; aims to simulate weighted parameters for movovement that looks similar to fungal growth much akin to the "Game of Life"; has custom objects that the fungus evolves/ interacts specially around
+* HTML INDEX GENERATOR; perfect for aiding in the indexing process needed in node.js and other app creation needs or to just index ;)
+* ASCII fireplace for a "cozy" coding session; for fun
+* HOLO-SCREENSAVER: creates an interactive screensaver where there is a web of points within a 3D-space; each point is rotated on the mouses axis and color of points adapts to position (looks like shimmering)
+
+
+
+
+
+
+
 #### ---
 #### Done (but to upload):
 * Local LLM with TTS Functionality within CLI and UI
