@@ -19,6 +19,8 @@
 * Metadata_Scraper with UI
 * Full Disk Indexing System ONLY for user-level files/ folders
 * PDF to words list
+* A script for a CyberPunk-esque splash screen with a password lock for any CLI when opening - easy to implement in the ~/.zshrc or similar
+  + Completely disables abilities to enter CLI or exit until password is entered
 
 
 
@@ -31,12 +33,10 @@
 * PDF Merger with custom footers and ToC indexing for origin files
 * Various .js files for consumer UIs into a single repository
 * A Multi-lingual Speech-to-text transcription pipeline designed for video and sound files to convert into .md or .txt files with timestamps
-* A script for a CyberPunk-esque splash screen with a password lock for any CLI when opening - easy to implement in the ~/.zshrc or similar
-  + Completely disables abilities to enter CLI or exit until password is entered
 
 
 
-* Screen Cappping Script for MacOS with full audio
+* Screen Capture Script for MacOS with full audio
 * Auditing CLI tool for scraping entire system like grep but with custom directory paths (used to delete deeply-embedded files; use with caution!)
 * SWARM + Federation Learning test
 * ASCII-to-video conversion tool for fun, can increase the level of detail by increasing the character density and intensity ... increases the time-to-completion naturally
