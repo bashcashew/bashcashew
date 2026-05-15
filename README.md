@@ -14,13 +14,13 @@
 ### Here is a list of things I am working on, but not exclussively. ;)
 #### ---
 #### Done:
-* Masters Thesis 2026 (Secure Mobile Money Fraud Detection System) -- limited upload due; process of publishing paper then upload full unfettered docs. 
+* Masters Thesis 2026 (Secure Mobile Money Fraud Detection System) -- limited upload due; process of publishing paper then upload full unfettered docs and codes. 
 * Uploading a PS5-to-PC script that enables bluetooth interception and re-mapping of PS5 controller (with togglable telemetry)
-
-
 * Metadata_Scraper with UI
 * Full Disk Indexing System ONLY for user-level files/ folders
 * PDF to words list
+
+
 * Quantum Neural Network Instantation
 * Screen Cappping Script for MacOS with full audio
 * Auditing CLI tool for scraping entire system like grep but with custom directory paths (used to delete deeply-embedded files; use with caution and please KNOW what you are doing)
