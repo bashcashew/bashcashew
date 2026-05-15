@@ -23,7 +23,7 @@
 
 * Quantum Neural Network Instantation
 * Screen Cappping Script for MacOS with full audio
-* Auditing CLI tool for scraping entire system like grep but with custom directory paths (used to delete deeply-embedded files; use with caution and please KNOW what you are doing)
+* Auditing CLI tool for scraping entire system like grep but with custom directory paths (used to delete deeply-embedded files; use with caution!)
 * SWARM + Federation Learning test
 * ASCII-to-video conversion tool for fun, can increase the level of detail by increasing the character density and intensity ... increases the time-to-completion naturally
 * ASCII-based fungal growth; aims to simulate weighted parameters for movovement that looks similar to fungal growth much akin to the "Game of Life"; has custom objects that the fungus evolves/ interacts specially around
